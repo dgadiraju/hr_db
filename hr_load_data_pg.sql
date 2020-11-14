@@ -339,14 +339,14 @@ INSERT INTO departments VALUES
    , 1800
    );
    
-   INSERT INTO departments VALUES 
+INSERT INTO departments VALUES 
    ( 30
    , 'Purchasing'
    , 114
    , 1700
    );
    
-   INSERT INTO departments VALUES 
+INSERT INTO departments VALUES 
    ( 40
    , 'Human Resources'
    , 203
@@ -359,28 +359,28 @@ INSERT INTO departments VALUES
    , 1500
    );
    
-   INSERT INTO departments VALUES 
+INSERT INTO departments VALUES 
    ( 60 
    , 'IT'
    , 103
    , 1400
    );
    
-   INSERT INTO departments VALUES 
+INSERT INTO departments VALUES 
    ( 70 
    , 'Public Relations'
    , 204
    , 2700
    );
    
-   INSERT INTO departments VALUES 
+INSERT INTO departments VALUES 
    ( 80 
    , 'Sales'
    , 145
    , 2500
    );
    
-   INSERT INTO departments VALUES 
+INSERT INTO departments VALUES 
    ( 90 
    , 'Executive'
    , 100
@@ -393,7 +393,7 @@ INSERT INTO departments VALUES
    , 1700
    );
    
-   INSERT INTO departments VALUES 
+INSERT INTO departments VALUES 
    ( 110 
    , 'Accounting'
    , 205
@@ -502,7 +502,7 @@ INSERT INTO jobs VALUES
    , 20000
    , 40000
    );
-   INSERT INTO jobs VALUES 
+INSERT INTO jobs VALUES 
    ( 'AD_VP'
    , 'Administration Vice President'
    , 15000
@@ -538,7 +538,7 @@ INSERT INTO jobs VALUES
    , 4200
    , 9000
    );
-   INSERT INTO jobs VALUES 
+INSERT INTO jobs VALUES 
    ( 'SA_MAN'
    , 'Sales Manager'
    , 10000
@@ -568,7 +568,7 @@ INSERT INTO jobs VALUES
    , 5500
    , 8500
    );
-   INSERT INTO jobs VALUES 
+INSERT INTO jobs VALUES 
    ( 'ST_CLERK'
    , 'Stock Clerk'
    , 2000
