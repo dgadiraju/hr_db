@@ -329,74 +329,67 @@ INSERT INTO locations VALUES
 INSERT INTO departments VALUES 
    ( 10
    , 'Administration'
-   , 200
+   , NULL
    , 1700
    );
 INSERT INTO departments VALUES 
    ( 20
    , 'Marketing'
-   , 201
+   , NULL
    , 1800
-   );
-   
+   );  
 INSERT INTO departments VALUES 
    ( 30
    , 'Purchasing'
-   , 114
+   , NULL
    , 1700
-   );
-   
+   );  
 INSERT INTO departments VALUES 
    ( 40
    , 'Human Resources'
-   , 203
+   , NULL
    , 2400
    );
 INSERT INTO departments VALUES 
    ( 50
    , 'Shipping'
-   , 121
+   , NULL
    , 1500
    );
-   
 INSERT INTO departments VALUES 
    ( 60 
    , 'IT'
-   , 103
+   , NULL
    , 1400
    );
-   
 INSERT INTO departments VALUES 
    ( 70 
    , 'Public Relations'
-   , 204
+   , NULL
    , 2700
    );
-   
 INSERT INTO departments VALUES 
    ( 80 
    , 'Sales'
-   , 145
+   , NULL
    , 2500
    );
-   
 INSERT INTO departments VALUES 
    ( 90 
    , 'Executive'
-   , 100
+   , NULL
    , 1700
    );
 INSERT INTO departments VALUES 
    ( 100 
    , 'Finance'
-   , 108
+   , NULL
    , 1700
    );
-   
 INSERT INTO departments VALUES 
    ( 110 
    , 'Accounting'
-   , 205
+   , NULL
    , 1700
    );
 INSERT INTO departments VALUES 
@@ -2069,3 +2062,37 @@ INSERT INTO job_history
    , 'AC_ACCOUNT'
    , 90
    );
+   
+UPDATE departments SET
+   manager_id = 200
+WHERE department_id = 10;
+UPDATE departments SET
+   manager_id = 201
+WHERE department_id = 20;
+UPDATE departments SET
+   manager_id = 114
+WHERE department_id = 30;
+UPDATE departments SET
+   manager_id = 203
+WHERE department_id = 40;
+UPDATE departments SET
+   manager_id = 121
+WHERE department_id = 50;
+UPDATE departments SET
+   manager_id = 103
+WHERE department_id = 60;
+UPDATE departments SET
+   manager_id = 204
+WHERE department_id = 70;
+UPDATE departments SET
+   manager_id = 145
+WHERE department_id = 80;
+UPDATE departments SET
+   manager_id = 100
+WHERE department_id = 90;
+UPDATE departments SET
+   manager_id = 108
+WHERE department_id = 100;
+UPDATE departments SET
+   manager_id = 205
+WHERE department_id = 110;
