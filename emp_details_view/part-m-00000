@@ -1,64 +1,64 @@
-200	AD_ASST	101	10	1700	US	Jennifer	Whalen	4400.00	null	Administration	Administration Assistant	Seattle	Washington	United States of America	Americas
-201	MK_MAN	100	20	1800	CA	Michael	Hartstein	13000.00	null	Marketing	Marketing Manager	Toronto	Ontario	Canada	Americas
-202	MK_REP	201	20	1800	CA	Pat	Fay	6000.00	null	Marketing	Marketing Representative	Toronto	Ontario	Canada	Americas
-114	PU_MAN	100	30	1700	US	Den	Raphaely	11000.00	null	Purchasing	Purchasing Manager	Seattle	Washington	United States of America	Americas
-115	PU_CLERK	114	30	1700	US	Alexander	Khoo	3100.00	null	Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
-116	PU_CLERK	114	30	1700	US	Shelli	Baida	2900.00	null	Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
-117	PU_CLERK	114	30	1700	US	Sigal	Tobias	2800.00	null	Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
-118	PU_CLERK	114	30	1700	US	Guy	Himuro	2600.00	null	Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
-119	PU_CLERK	114	30	1700	US	Karen	Colmenares	2500.00	null	Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
-203	HR_REP	101	40	2400	UK	Susan	Mavris	6500.00	null	Human Resources	Human Resources Representative	London	null	United Kingdom	Europe
-120	ST_MAN	100	50	1500	US	Matthew	Weiss	8000.00	null	Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
-121	ST_MAN	100	50	1500	US	Adam	Fripp	8200.00	null	Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
-122	ST_MAN	100	50	1500	US	Payam	Kaufling	7900.00	null	Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
-123	ST_MAN	100	50	1500	US	Shanta	Vollman	6500.00	null	Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
-124	ST_MAN	100	50	1500	US	Kevin	Mourgos	5800.00	null	Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
-125	ST_CLERK	120	50	1500	US	Julia	Nayer	3200.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-126	ST_CLERK	120	50	1500	US	Irene	Mikkilineni	2700.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-127	ST_CLERK	120	50	1500	US	James	Landry	2400.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-128	ST_CLERK	120	50	1500	US	Steven	Markle	2200.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-129	ST_CLERK	121	50	1500	US	Laura	Bissot	3300.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-130	ST_CLERK	121	50	1500	US	Mozhe	Atkinson	2800.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-131	ST_CLERK	121	50	1500	US	James	Marlow	2500.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-132	ST_CLERK	121	50	1500	US	TJ	Olson	2100.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-133	ST_CLERK	122	50	1500	US	Jason	Mallin	3300.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-134	ST_CLERK	122	50	1500	US	Michael	Rogers	2900.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-135	ST_CLERK	122	50	1500	US	Ki	Gee	2400.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-136	ST_CLERK	122	50	1500	US	Hazel	Philtanker	2200.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-137	ST_CLERK	123	50	1500	US	Renske	Ladwig	3600.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-138	ST_CLERK	123	50	1500	US	Stephen	Stiles	3200.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-139	ST_CLERK	123	50	1500	US	John	Seo	2700.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-140	ST_CLERK	123	50	1500	US	Joshua	Patel	2500.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-141	ST_CLERK	124	50	1500	US	Trenna	Rajs	3500.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-142	ST_CLERK	124	50	1500	US	Curtis	Davies	3100.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-143	ST_CLERK	124	50	1500	US	Randall	Matos	2600.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-144	ST_CLERK	124	50	1500	US	Peter	Vargas	2500.00	null	Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
-180	SH_CLERK	120	50	1500	US	Winston	Taylor	3200.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-181	SH_CLERK	120	50	1500	US	Jean	Fleaur	3100.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-182	SH_CLERK	120	50	1500	US	Martha	Sullivan	2500.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-183	SH_CLERK	120	50	1500	US	Girard	Geoni	2800.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-184	SH_CLERK	121	50	1500	US	Nandita	Sarchand	4200.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-185	SH_CLERK	121	50	1500	US	Alexis	Bull	4100.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-186	SH_CLERK	121	50	1500	US	Julia	Dellinger	3400.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-187	SH_CLERK	121	50	1500	US	Anthony	Cabrio	3000.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-188	SH_CLERK	122	50	1500	US	Kelly	Chung	3800.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-189	SH_CLERK	122	50	1500	US	Jennifer	Dilly	3600.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-190	SH_CLERK	122	50	1500	US	Timothy	Gates	2900.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-191	SH_CLERK	122	50	1500	US	Randall	Perkins	2500.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-192	SH_CLERK	123	50	1500	US	Sarah	Bell	4000.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-193	SH_CLERK	123	50	1500	US	Britney	Everett	3900.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-194	SH_CLERK	123	50	1500	US	Samuel	McCain	3200.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-195	SH_CLERK	123	50	1500	US	Vance	Jones	2800.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-196	SH_CLERK	124	50	1500	US	Alana	Walsh	3100.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-197	SH_CLERK	124	50	1500	US	Kevin	Feeney	3000.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-198	SH_CLERK	124	50	1500	US	Donald	OConnell	2600.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-199	SH_CLERK	124	50	1500	US	Douglas	Grant	2600.00	null	Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
-103	IT_PROG	102	60	1400	US	Alexander	Hunold	9000.00	null	IT	Programmer	Southlake	Texas	United States of America	Americas
-104	IT_PROG	103	60	1400	US	Bruce	Ernst	6000.00	null	IT	Programmer	Southlake	Texas	United States of America	Americas
-105	IT_PROG	103	60	1400	US	David	Austin	4800.00	null	IT	Programmer	Southlake	Texas	United States of America	Americas
-106	IT_PROG	103	60	1400	US	Valli	Pataballa	4800.00	null	IT	Programmer	Southlake	Texas	United States of America	Americas
-107	IT_PROG	103	60	1400	US	Diana	Lorentz	4200.00	null	IT	Programmer	Southlake	Texas	United States of America	Americas
-204	PR_REP	101	70	2700	DE	Hermann	Baer	10000.00	null	Public Relations	Public Relations Representative	Munich	Bavaria	Germany	Europe
+200	AD_ASST	101	10	1700	US	Jennifer	Whalen	4400.00		Administration	Administration Assistant	Seattle	Washington	United States of America	Americas
+201	MK_MAN	100	20	1800	CA	Michael	Hartstein	13000.00		Marketing	Marketing Manager	Toronto	Ontario	Canada	Americas
+202	MK_REP	201	20	1800	CA	Pat	Fay	6000.00		Marketing	Marketing Representative	Toronto	Ontario	Canada	Americas
+114	PU_MAN	100	30	1700	US	Den	Raphaely	11000.00		Purchasing	Purchasing Manager	Seattle	Washington	United States of America	Americas
+115	PU_CLERK	114	30	1700	US	Alexander	Khoo	3100.00		Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
+116	PU_CLERK	114	30	1700	US	Shelli	Baida	2900.00		Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
+117	PU_CLERK	114	30	1700	US	Sigal	Tobias	2800.00		Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
+118	PU_CLERK	114	30	1700	US	Guy	Himuro	2600.00		Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
+119	PU_CLERK	114	30	1700	US	Karen	Colmenares	2500.00		Purchasing	Purchasing Clerk	Seattle	Washington	United States of America	Americas
+203	HR_REP	101	40	2400	UK	Susan	Mavris	6500.00		Human Resources	Human Resources Representative	London		United Kingdom	Europe
+120	ST_MAN	100	50	1500	US	Matthew	Weiss	8000.00		Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
+121	ST_MAN	100	50	1500	US	Adam	Fripp	8200.00		Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
+122	ST_MAN	100	50	1500	US	Payam	Kaufling	7900.00		Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
+123	ST_MAN	100	50	1500	US	Shanta	Vollman	6500.00		Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
+124	ST_MAN	100	50	1500	US	Kevin	Mourgos	5800.00		Shipping	Stock Manager	South San Francisco	California	United States of America	Americas
+125	ST_CLERK	120	50	1500	US	Julia	Nayer	3200.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+126	ST_CLERK	120	50	1500	US	Irene	Mikkilineni	2700.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+127	ST_CLERK	120	50	1500	US	James	Landry	2400.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+128	ST_CLERK	120	50	1500	US	Steven	Markle	2200.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+129	ST_CLERK	121	50	1500	US	Laura	Bissot	3300.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+130	ST_CLERK	121	50	1500	US	Mozhe	Atkinson	2800.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+131	ST_CLERK	121	50	1500	US	James	Marlow	2500.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+132	ST_CLERK	121	50	1500	US	TJ	Olson	2100.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+133	ST_CLERK	122	50	1500	US	Jason	Mallin	3300.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+134	ST_CLERK	122	50	1500	US	Michael	Rogers	2900.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+135	ST_CLERK	122	50	1500	US	Ki	Gee	2400.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+136	ST_CLERK	122	50	1500	US	Hazel	Philtanker	2200.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+137	ST_CLERK	123	50	1500	US	Renske	Ladwig	3600.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+138	ST_CLERK	123	50	1500	US	Stephen	Stiles	3200.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+139	ST_CLERK	123	50	1500	US	John	Seo	2700.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+140	ST_CLERK	123	50	1500	US	Joshua	Patel	2500.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+141	ST_CLERK	124	50	1500	US	Trenna	Rajs	3500.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+142	ST_CLERK	124	50	1500	US	Curtis	Davies	3100.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+143	ST_CLERK	124	50	1500	US	Randall	Matos	2600.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+144	ST_CLERK	124	50	1500	US	Peter	Vargas	2500.00		Shipping	Stock Clerk	South San Francisco	California	United States of America	Americas
+180	SH_CLERK	120	50	1500	US	Winston	Taylor	3200.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+181	SH_CLERK	120	50	1500	US	Jean	Fleaur	3100.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+182	SH_CLERK	120	50	1500	US	Martha	Sullivan	2500.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+183	SH_CLERK	120	50	1500	US	Girard	Geoni	2800.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+184	SH_CLERK	121	50	1500	US	Nandita	Sarchand	4200.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+185	SH_CLERK	121	50	1500	US	Alexis	Bull	4100.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+186	SH_CLERK	121	50	1500	US	Julia	Dellinger	3400.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+187	SH_CLERK	121	50	1500	US	Anthony	Cabrio	3000.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+188	SH_CLERK	122	50	1500	US	Kelly	Chung	3800.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+189	SH_CLERK	122	50	1500	US	Jennifer	Dilly	3600.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+190	SH_CLERK	122	50	1500	US	Timothy	Gates	2900.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+191	SH_CLERK	122	50	1500	US	Randall	Perkins	2500.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+192	SH_CLERK	123	50	1500	US	Sarah	Bell	4000.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+193	SH_CLERK	123	50	1500	US	Britney	Everett	3900.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+194	SH_CLERK	123	50	1500	US	Samuel	McCain	3200.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+195	SH_CLERK	123	50	1500	US	Vance	Jones	2800.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+196	SH_CLERK	124	50	1500	US	Alana	Walsh	3100.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+197	SH_CLERK	124	50	1500	US	Kevin	Feeney	3000.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+198	SH_CLERK	124	50	1500	US	Donald	OConnell	2600.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+199	SH_CLERK	124	50	1500	US	Douglas	Grant	2600.00		Shipping	Shipping Clerk	South San Francisco	California	United States of America	Americas
+103	IT_PROG	102	60	1400	US	Alexander	Hunold	9000.00		IT	Programmer	Southlake	Texas	United States of America	Americas
+104	IT_PROG	103	60	1400	US	Bruce	Ernst	6000.00		IT	Programmer	Southlake	Texas	United States of America	Americas
+105	IT_PROG	103	60	1400	US	David	Austin	4800.00		IT	Programmer	Southlake	Texas	United States of America	Americas
+106	IT_PROG	103	60	1400	US	Valli	Pataballa	4800.00		IT	Programmer	Southlake	Texas	United States of America	Americas
+107	IT_PROG	103	60	1400	US	Diana	Lorentz	4200.00		IT	Programmer	Southlake	Texas	United States of America	Americas
+204	PR_REP	101	70	2700	DE	Hermann	Baer	10000.00		Public Relations	Public Relations Representative	Munich	Bavaria	Germany	Europe
 145	SA_MAN	100	80	2500	UK	John	Russell	14000.00	0.40	Sales	Sales Manager	Oxford	Oxford	United Kingdom	Europe
 146	SA_MAN	100	80	2500	UK	Karen	Partners	13500.00	0.30	Sales	Sales Manager	Oxford	Oxford	United Kingdom	Europe
 147	SA_MAN	100	80	2500	UK	Alberto	Errazuriz	12000.00	0.30	Sales	Sales Manager	Oxford	Oxford	United Kingdom	Europe
@@ -93,14 +93,14 @@
 176	SA_REP	149	80	2500	UK	Jonathon	Taylor	8600.00	0.20	Sales	Sales Representative	Oxford	Oxford	United Kingdom	Europe
 177	SA_REP	149	80	2500	UK	Jack	Livingston	8400.00	0.20	Sales	Sales Representative	Oxford	Oxford	United Kingdom	Europe
 179	SA_REP	149	80	2500	UK	Charles	Johnson	6200.00	0.10	Sales	Sales Representative	Oxford	Oxford	United Kingdom	Europe
-100	AD_PRES	null	90	1700	US	Steven	King	24000.00	null	Executive	President	Seattle	Washington	United States of America	Americas
-101	AD_VP	100	90	1700	US	Neena	Kochhar	17000.00	null	Executive	Administration Vice President	Seattle	Washington	United States of America	Americas
-102	AD_VP	100	90	1700	US	Lex	De Haan	17000.00	null	Executive	Administration Vice President	Seattle	Washington	United States of America	Americas
-108	FI_MGR	101	100	1700	US	Nancy	Greenberg	12000.00	null	Finance	Finance Manager	Seattle	Washington	United States of America	Americas
-109	FI_ACCOUNT	108	100	1700	US	Daniel	Faviet	9000.00	null	Finance	Accountant	Seattle	Washington	United States of America	Americas
-110	FI_ACCOUNT	108	100	1700	US	John	Chen	8200.00	null	Finance	Accountant	Seattle	Washington	United States of America	Americas
-111	FI_ACCOUNT	108	100	1700	US	Ismael	Sciarra	7700.00	null	Finance	Accountant	Seattle	Washington	United States of America	Americas
-112	FI_ACCOUNT	108	100	1700	US	Jose Manuel	Urman	7800.00	null	Finance	Accountant	Seattle	Washington	United States of America	Americas
-113	FI_ACCOUNT	108	100	1700	US	Luis	Popp	6900.00	null	Finance	Accountant	Seattle	Washington	United States of America	Americas
-205	AC_MGR	101	110	1700	US	Shelley	Higgins	12000.00	null	Accounting	Accounting Manager	Seattle	Washington	United States of America	Americas
-206	AC_ACCOUNT	205	110	1700	US	William	Gietz	8300.00	null	Accounting	Public Accountant	Seattle	Washington	United States of America	Americas
+100	AD_PRES		90	1700	US	Steven	King	24000.00		Executive	President	Seattle	Washington	United States of America	Americas
+101	AD_VP	100	90	1700	US	Neena	Kochhar	17000.00		Executive	Administration Vice President	Seattle	Washington	United States of America	Americas
+102	AD_VP	100	90	1700	US	Lex	De Haan	17000.00		Executive	Administration Vice President	Seattle	Washington	United States of America	Americas
+108	FI_MGR	101	100	1700	US	Nancy	Greenberg	12000.00		Finance	Finance Manager	Seattle	Washington	United States of America	Americas
+109	FI_ACCOUNT	108	100	1700	US	Daniel	Faviet	9000.00		Finance	Accountant	Seattle	Washington	United States of America	Americas
+110	FI_ACCOUNT	108	100	1700	US	John	Chen	8200.00		Finance	Accountant	Seattle	Washington	United States of America	Americas
+111	FI_ACCOUNT	108	100	1700	US	Ismael	Sciarra	7700.00		Finance	Accountant	Seattle	Washington	United States of America	Americas
+112	FI_ACCOUNT	108	100	1700	US	Jose Manuel	Urman	7800.00		Finance	Accountant	Seattle	Washington	United States of America	Americas
+113	FI_ACCOUNT	108	100	1700	US	Luis	Popp	6900.00		Finance	Accountant	Seattle	Washington	United States of America	Americas
+205	AC_MGR	101	110	1700	US	Shelley	Higgins	12000.00		Accounting	Accounting Manager	Seattle	Washington	United States of America	Americas
+206	AC_ACCOUNT	205	110	1700	US	William	Gietz	8300.00		Accounting	Public Accountant	Seattle	Washington	United States of America	Americas
